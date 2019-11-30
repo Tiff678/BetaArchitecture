@@ -1,0 +1,8 @@
+INTSTYLE=pa
+INFILE=C:\Users\Tiffany\Documents\Academic\Term 4\Computation Structures\1D Game\BetaArchitecture\work\planAhead\BetaArchitecture\BetaArchitecture.runs\impl_1\mojo_top_0_routed.ncd
+OUTFILE=C:\Users\Tiffany\Documents\Academic\Term 4\Computation Structures\1D Game\BetaArchitecture\work\planAhead\BetaArchitecture\BetaArchitecture.runs\impl_1\mojo_top_0.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=C:\Users\Tiffany\Documents\Academic\Term 4\Computation Structures\1D Game\BetaArchitecture\work\planAhead\BetaArchitecture\BetaArchitecture.runs\impl_1
+LICENSE=ISE
+USER_INFO=211813993_0_0_641
